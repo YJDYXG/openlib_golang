@@ -1,0 +1,3 @@
+# openlib_golang
+依赖的golang开源文件放到libsrc中
+generate_proto.sh用于生成proto相关文件
